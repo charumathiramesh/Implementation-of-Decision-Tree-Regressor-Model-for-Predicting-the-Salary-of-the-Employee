@@ -22,7 +22,7 @@ Developed by: CHARUMATHI R
 RegisterNumber:  212222240021
 */
 ```
-```C
+```c
 import pandas as pd
 data=pd.read_csv("Salary.csv")
 data.head()
